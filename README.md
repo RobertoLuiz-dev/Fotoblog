@@ -1,4 +1,4 @@
-Projeto Fotoblog - já com recursos à animações, filtros e transições.
+Fotoblog Project - already with animations, filters and transitions.
 
 ![image](https://github.com/user-attachments/assets/a6b53406-447a-4a11-b27a-aadad4aa45c0)
 
